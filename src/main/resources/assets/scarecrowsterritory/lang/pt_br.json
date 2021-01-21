@@ -1,0 +1,6 @@
+{
+  "block.scarecrowsterritory.primitive_scarecrow": "Espantalho",
+  "scarecrowsterritory.primitive_scarecrow.info.spawners": "Mantém os Geradores em um intervalo de %1$d blocos ativados",
+  "scarecrowsterritory.primitive_scarecrow.info.passive": "Permite a geração de mobs passivaos em um intervalo de %1$d blocos",
+  "scarecrowsterritory.primitive_scarecrow.info.both": ""Mantém os Geradores em um intervalo de %1$d blocos ativados e permite a geração de mobs passivaos em um intervalo de %1$d blocos"
+}
